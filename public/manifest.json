@@ -1,0 +1,6 @@
+{
+  "short_name": "Recipe",
+  "name": "Recipe site",
+  "start_url": ".",
+  "display": "standalone"
+}
