@@ -1,14 +1,14 @@
-Project Title: Recipes
+# Recipes
 
-Details: Web application to search for any recipe. 
+Web application to search for any recipe.
 
-Used technologies:
+## Used technologies:
 
     React
     Styled components
     Fetch
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
